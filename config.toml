@@ -1,0 +1,27 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Revolucionando con Vue"
+theme = "tale"
+
+[menu]
+  [[menu.main]]
+    identifier = "VUE"
+    name = "VUE"
+    title = "VUE"
+    url = "/VUE/"
+    weight = 0
+
+[[menu.main]]
+    identifier = "PasosCodigo"
+    name = "PasosCodigo"
+    title = "PasosCodigo"
+    url = "/PasosCodigo/"
+    weight = 0
+
+
+ [[menu.main]]
+    identifier = "CodigoVue"
+    name = "CodigoVue"
+    title = "CodigoVue"
+    url = "/CodigoVue/"
+    weight = 0
